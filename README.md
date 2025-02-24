@@ -2,7 +2,9 @@
 
 CUDOCS is an intelligent chat interface that helps developers navigate and understand CUDOS documentation more effectively. Built with Next.js 13+ and Tailwind CSS, it leverages the power of Llama, an open-source AI model deployed on CUDOS intercloud infrastructure, providing decentralized and efficient AI capabilities.
 
-![CUDOCS Interface](/placeholder.svg?height=400&width=800)
+<div align="center">
+  <img src="./media/CUDOCS.png" alt="CUDOCS - AI Documentation Assistant Interface" width="800" />
+</div>
 
 ## Features
 
